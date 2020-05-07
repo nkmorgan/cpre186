@@ -357,7 +357,7 @@ class OpenMineTile extends StatelessWidget{
     else{
       text = RichText(
         text: TextSpan(
-          text: '\u2600',
+          text: '\u2739',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             color: Colors.red,
